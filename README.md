@@ -2,14 +2,15 @@
 
 **` Computer Science Student/Software Developer Intern (FIU/Ryder Inc.)`**
 
-I'm an FIU Computer Science student aspiring to become a Software Engineer, trying to become the best version of myself one step at a time!
-I thrive on being authentic and being myself, I enjoy the process of learning. Everything in life is made to be difficult, but it's up
-to us to make life easier—work smarter not harder! All coding projects are made to learn, to get better, and are open to constructive criticism!
+I'm an FIU Computer Science student currently working @ Ryder Systems Inc. as a Software Developer Intern, aspiring to become a Software Engineer. 
+My goal is to become the best version of myself one step at a time, as I thrive on being authentic and being myself. 
+I enjoy the process of learning. Everything in life is made to be difficult, but it's up to us to make life easier—work smarter not harder!
+All coding projects are made to learn, to get better, and are open to constructive criticism!
 
 ## 😎 Fun Facts
 - I like to bake (Cookies mostly..)
-- I enjoy going to the gym (I've lost over 70+ LBS)
-- I like to play basketball (Mostly to shoot around)
+- I enjoy going to the gym (I've lost over 70+ lbs)
+- I like to play basketball (Mostly to shoot around @ the gym)
 - I love pokemon! (As you can see from my profile pic :) )
 
 ### 🧰 Languages and Tools
